@@ -1,0 +1,6 @@
+fastmcp
+openai-agents
+python-dotenv
+google-api-python-client
+google-auth-oauthlib
+tzdata
